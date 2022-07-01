@@ -1,6 +1,6 @@
 # Notes
 
-Please first ensure that the CPU on your device is newer than the 6th generation (Skylake), and that the SGX feature is fully enabled by the BIOS settings. Also, to run the application, you need to install Intel's SGX SDK and SGX drivers for the Linux OS. And, you need to install mysql and racksdb.
+Please first ensure that the CPU on your device is newer than the 6th generation (Skylake), and that the SGX feature is fully enabled by the BIOS settings. Also, to run the application, you need to install Intel's SGX SDK and SGX drivers for the Linux OS.
 
 ## Some Guidances For Writing SGX Applications
 
